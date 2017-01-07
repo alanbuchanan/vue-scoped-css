@@ -21,11 +21,10 @@
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Arima+Madurai:900');
+  @import url('https://fonts.googleapis.com/css?family=Arima+Madurai:900');
 
-div {
-  font-family: 'Arima Madurai', cursive;
-  text-align: center;
-}
-
+  div {
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+  }
 </style>
